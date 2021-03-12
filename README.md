@@ -1,5 +1,12 @@
 # tz-guestbook
 
+Tags: Nuxt Tezos Taquito
+
+## Tutorial
+yarn create nuxt-app tz-guestbook
+
+yarn add @taquito/taquito
+
 ## Build Setup
 
 ```bash

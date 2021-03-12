@@ -1,6 +1,8 @@
 import colors from 'vuetify/es5/util/colors'
 
 export default {
+  telemetry: false,
+
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
