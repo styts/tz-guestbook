@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.12.5",
+    "@taquito/beacon-wallet": "^8.0.6-beta.0",
     "@taquito/taquito": "^8.0.6-beta.0",
     "core-js": "^3.8.3",
     "date-fns": "^2.19.0",

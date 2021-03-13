@@ -8,7 +8,6 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - tz-guestbook',
     title: 'tz-guestbook',
     htmlAttrs: {
       lang: 'en'
