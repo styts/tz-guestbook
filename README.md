@@ -1,27 +1,22 @@
-# tz-guestbook
+# Tezos Guestbook
 
-Tags: Nuxt Tezos Taquito
-
-## Tutorial
-yarn create nuxt-app tz-guestbook
-
-yarn add @taquito/taquito
+TODO blogpost: https://styts.com/tz-guestbook
+TODO homepage: https://styts.com/tz-guestbook
 
 ## Build Setup
 
 ```bash
 # install dependencies
-$ yarn install
+$ yarn
 
 # serve with hot reload at localhost:3000
 $ yarn dev
 
 # build for production and launch server
 $ yarn build
-$ yarn start
-
-# generate static project
 $ yarn generate
+$ yarn deploy
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Acknowledgments
+- Roxane Létourneau
