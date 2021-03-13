@@ -17,10 +17,12 @@
               This is a trivial guestbook DApp on the Tezos blockchain.
             </p>
             <p>
-              The data is stored in a <a href="https://better-call.dev/edo2net/KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX/operations">smart contract</a> on the testnet. The testnet
-              can be reset any time, so this data will likely get lost. The
-              submitted messages are unfiltered, and might contain offensive
-              content.
+              The data is stored in a <a
+                about="_blank"
+                href="https://better-call.dev/edo2net/KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX/operations">smart
+                contract</a> on the testnet. The testnet can be reset any time, so
+              this data will likely get lost. The submitted messages are
+              unfiltered, and might contain offensive content.
             </p>
           </v-expansion-panel-content>
         </v-expansion-panel>
