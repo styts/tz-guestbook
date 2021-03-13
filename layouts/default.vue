@@ -1,16 +1,16 @@
 <template>
   <v-app dark>
-    <v-app-bar clipped-left fixed app>
-      <v-app-bar-title>
+    <v-app-bar fixed app>
+      <v-toolbar-title>
         Tezos Guestbook
-      </v-app-bar-title>
+      </v-toolbar-title>
       <v-spacer />
       <span class="net">
         Edonet (testnet)
       </span>
-      <v-btn href="https://github.com/styts/tz-guestbook" large icon>
-        <v-icon>mdi-github</v-icon>
-      </v-btn>
+      <a class="link ml-2" href="https://github.com/styts/tz-guestbook">
+        <v-icon large>mdi-github</v-icon>
+      </a>
     </v-app-bar>
     <v-main>
       <v-container>
@@ -28,3 +28,9 @@ export default {
   }
 }
 </script>
+
+<style>
+  .link {
+    text-decoration: none;
+  }
+</style>
