@@ -1,7 +1,8 @@
 # Tezos Guestbook
 
-TODO blogpost: https://styts.com/tz-guestbook
-TODO homepage: https://styts.com/tz-guestbook
+TODO blogpost: https://styts.com/tz-guestbook  
+
+Smart contract (testnet): [KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX](https://better-call.dev/edo2net/KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX/operations)
 
 ## Build Setup
 
