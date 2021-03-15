@@ -16,7 +16,7 @@ guestbook: KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX
 ## originate the contract: KT18iu9dNhh1QJ1SfqfZxiFZMwYo4bUay7e2
 testnet originate contract guestbook \
 transferring 0 from thanos running output/Guestbook_interpreted/testContractCode.0.1.tz --force \
---fee 0.0008 --init "Pair {} (Pair {} {})" --burn-cap 0.12425 --dry-run
+--fee 0.0008 --init "Pair {} (Pair {} {})" --burn-cap 0.125
 
 ## get contract storage for guestbook
 testnet get contract storage for guestbook
@@ -24,4 +24,4 @@ testnet get contract storage for guestbook
 ## calling the contract
 testnet call guestbook from thanos \
 --arg '(Pair "alice" "hi from alice")' \
---burn-cap 0.0085 --dry-run
+--burn-cap 0.0085

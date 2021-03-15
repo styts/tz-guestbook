@@ -1,6 +1,6 @@
 # Tezos Guestbook
 
-TODO blogpost: https://styts.com/tz-guestbook  
+Tutorial: [Build your first DApp on Tezos in 2-4 hours](https://styts.com/your-first-tezos-dapp)  
 
 Smart contract (testnet): [KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX](https://better-call.dev/edo2net/KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX/operations)
 
