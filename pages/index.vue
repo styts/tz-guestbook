@@ -17,6 +17,9 @@
               This is a trivial guestbook DApp on the Tezos blockchain.
             </p>
             <p>
+              Tutorial: <a href="https://styts.com/your-first-tezos-dapp">Build your first DApp on Tezos in 2-4 hours</a>.
+            </p>
+            <p>
               The data is stored in a <a
                 about="_blank"
                 href="https://better-call.dev/edo2net/KT1NunBWtpABstxkqW7QJAfBWUbFHxn2zCXX/operations">smart
